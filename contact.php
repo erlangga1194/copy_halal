@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
     /*
     name
@@ -44,7 +43,6 @@
         echo "There was a problem with your submission, please try again.";
     }
 
-=======
 <?php
     /*
     name
@@ -90,5 +88,4 @@
         echo "There was a problem with your submission, please try again.";
     }
 
->>>>>>> b4693a93e0202f78287c5077822484432bd631e1
 ?>
